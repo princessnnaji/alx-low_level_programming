@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 /**
  * main - Prints the alaphabet in lowercase
  *
@@ -7,10 +8,12 @@
  */
 int main(void)
 {
+
 	char letter;
 
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
+
 
 	putchar('\n');
 
