@@ -2,7 +2,7 @@
 
 
 /**
- * main - Prints the alaphabet in lowercase
+ * main - Prints the alaphabet in lowercase.
  *
  * Return: Always 0
  */
