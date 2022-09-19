@@ -1,19 +1,21 @@
 #include "main.h"
-
-/**
- * reset_to_98 - takes pointer to an int and updates the value to 98
- * @n: the integer to be pointed
- */
+#include <stdio.h>
 
 void reset_to_98(int *n);
 
+/**
+ * reset_to_98 - takes pointer to an int and updates the value to 98
+ * Return: Always 0.
+ */
+
+int main(void)
 {
-int x;
-int *n;
+	int x;
+	int *n;
 
-x = 98,
-n = &x;
+	x = 98,
+	n = &x;
 
-return (0);
+	return (0);
 
 }
