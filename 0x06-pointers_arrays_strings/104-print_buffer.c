@@ -49,11 +49,13 @@ void printASCII(char *b, int start, int end)
 		printf("%c", ch);
 		i++;
 	}
-} /**
+}
+/**
  * print_buffer - prints a buffer
  * @b: string
  * @size: size of buffer
- */ void print_buffer(char *b, int size)
+ */
+void print_buffer(char *b, int size)
 {
 	int start, end;
 
