@@ -4,6 +4,7 @@
  * _strncpy - copies a string by number of character
  * @dest: first string
  * @src: second string
+ * @n: value
  * Return: dest
  */
 
