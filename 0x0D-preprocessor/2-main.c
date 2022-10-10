@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-  *main - prints the name of th efile it was compiled from
-  *return: zero
-  */
+ *main - prints the name of th efile it was compiled from
+ *return: 0
+ */
 
 int main(void)
 {
